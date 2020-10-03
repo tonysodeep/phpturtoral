@@ -75,5 +75,7 @@
 		echo $namearray['2'];
 	?>
 	<a href="secondpage.php">go to second page </a>
+	<br>
+	<a href="scope.php">go to scope </a>
 </body>
 </html>
